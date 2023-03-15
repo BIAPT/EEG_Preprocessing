@@ -1,0 +1,4 @@
+matplotlib==3.7.1
+mne==1.1.0
+numpy==1.24.2
+PyQt6==6.4.2
